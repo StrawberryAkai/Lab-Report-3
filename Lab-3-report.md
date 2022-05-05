@@ -78,5 +78,11 @@ it is `scp <filename> <15L email address>:~/`.
 
 ## Setup Github Access from ieng6
 
+Hello
+
 ## Copy whole directories with `scp -r`
+
+### Step 1
+
+*   Assuming that you are in your directory file where you have all 
 
